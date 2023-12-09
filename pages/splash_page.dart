@@ -1,0 +1,3 @@
+class SplashPage extends StatelessWidget{
+
+}
